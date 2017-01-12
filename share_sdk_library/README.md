@@ -10,11 +10,11 @@
   Config.REDIRECT_URL = "http://sns.ooxx.com/sina2/callback";<br>
 3.分享<br>
     设置标题、副标题、显示图片、打开后的h5连接<br>
-    new ShareAction(activity)
-                    .setDisplayList(SHARE_MEDIA.QQ, SHARE_MEDIA.QZONE, SHARE_MEDIA.WEIXIN, SHARE_MEDIA.WEIXIN_CIRCLE, SHARE_MEDIA.SINA)
-                    .withTitle(")
-                    .withText("")
-                    .withMedia("http://ooxx.img")
-                    .withTargetUrl("http://ooxx.html").setCallback(umShareListener).open();
+    new ShareAction(activity)<br>
+                    .setDisplayList(SHARE_MEDIA.QQ, SHARE_MEDIA.QZONE, SHARE_MEDIA.WEIXIN, SHARE_MEDIA.WEIXIN_CIRCLE, SHARE_MEDIA.SINA)<br>
+                    .withTitle(")<br>
+                    .withText("")<br>
+                    .withMedia("http://ooxx.img")<br>
+                    .withTargetUrl("http://ooxx.html").setCallback(umShareListener).open();<br>
 
 4.结束，尽情分享吧！
