@@ -1,11 +1,11 @@
 可高度ui定制播放器<br>
-使用方法<br>
+使用方法
 1.在布局中引入
     <com.android.tedcoder.wkvideoplayer.view.SuperVideoPlayer
                     android:id="@+id/video_player_item"
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    /><br>
+                    />
 2.初始化并加载网络视频<br>
     video = new Video();<br>
     video.setVideoName(mTopicItem.getTitle());<br>
