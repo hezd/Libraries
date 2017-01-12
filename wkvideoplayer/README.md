@@ -1,6 +1,7 @@
 可高度ui定制播放器<br>
 使用方法<br>
-1.在布局中引入<br>
+1.在布局中引入
+<br>
     <com.android.tedcoder.wkvideoplayer.view.SuperVideoPlayer<br>
                     android:id="@+id/video_player_item"<br>
                     android:layout_width="match_parent"<br>
