@@ -1,0 +1,22 @@
+可高度ui定制播放器
+使用方法
+1.在布局中引入
+    <com.android.tedcoder.wkvideoplayer.view.SuperVideoPlayer
+                    android:id="@+id/video_player_item"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    >
+2.初始化并加载网络视频
+    video = new Video();
+    video.setVideoName(mTopicItem.getTitle());
+    VideoUrl videoUrl = new VideoUrl();
+    videoUrl.setFormatUrl(videoURL + ".f30.mp4");
+
+    ArrayList<VideoUrl> list = new ArrayList<>();
+    list.add(videoUrl);
+
+    video.setVideoUrl(list);
+
+    mSuperVideoPlayer.loadMultipleVideo(video);
+
+ 3.ui可进行高度定制，驰骋吧！

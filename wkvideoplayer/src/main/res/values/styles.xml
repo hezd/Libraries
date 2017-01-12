@@ -1,0 +1,35 @@
+<resources>
+
+    <style name="player_controller_divider">
+        <item name="android:background">#cccccc</item>
+        <item name="android:layout_width">0.5dp</item>
+        <item name="android:layout_marginBottom">17dp</item>
+        <item name="android:layout_marginTop">17dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="player_controller_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:drawablePadding">1dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textColor">@color/switcher_item_text_selector</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="switcher_item_text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/switcher_item_text_selector</item>
+    </style>
+    <style name="mProgress_circle">
+        <item name="android:indeterminateDrawable">@drawable/loading_circle</item>
+        <item name="android:minWidth">25dp</item>
+        <item name="android:minHeight">25dp</item>
+        <item name="android:maxWidth">60dp</item>
+        <item name="android:maxHeight">60dp</item>
+    </style>
+</resources>
