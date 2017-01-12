@@ -2,7 +2,7 @@
 使用方法<br>
 1.在布局中引入
 <br>
-    <com.android.tedcoder.wkvideoplayer.view.SuperVideoPlayer<br>
+    <com.android.tedcoder.wkvideoplayer.view.SuperVideoPlayer
                     android:id="@+id/video_player_item"<br>
                     android:layout_width="match_parent"<br>
                     android:layout_height="200dp"<br>
