@@ -12,11 +12,11 @@
     VideoUrl videoUrl = new VideoUrl();<br>
     videoUrl.setFormatUrl(videoURL + ".f30.mp4");<br>
 
-    ArrayList<VideoUrl> list = new ArrayList<>();<br>
-    list.add(videoUrl);<br>
+    ArrayList<VideoUrl> list = new ArrayList<>();
+    list.add(videoUrl);
 
-    video.setVideoUrl(list);<br>
+    video.setVideoUrl(list);
 
-    mSuperVideoPlayer.loadMultipleVideo(video);<br>
+    mSuperVideoPlayer.loadMultipleVideo(video);
 
  3.ui可进行高度定制，驰骋吧！
