@@ -1,12 +1,12 @@
-¿É¸ß¶Èui¶¨ÖÆ²¥·ÅÆ÷<br>
-Ê¹ÓÃ·½·¨
-1.ÔÚ²¼¾ÖÖĞÒıÈë
+å¯é«˜åº¦uiå®šåˆ¶æ’­æ”¾å™¨<br>
+ä½¿ç”¨æ–¹æ³•<br>
+1.åœ¨å¸ƒå±€ä¸­å¼•å…¥
     <com.android.tedcoder.wkvideoplayer.view.SuperVideoPlayer
-                    android:id="@+id/video_player_item"
+    
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
                     />
-2.³õÊ¼»¯²¢¼ÓÔØÍøÂçÊÓÆµ<br>
+2.åˆå§‹åŒ–å¹¶åŠ è½½ç½‘ç»œè§†é¢‘<br>
     video = new Video();<br>
     video.setVideoName(mTopicItem.getTitle());<br>
     VideoUrl videoUrl = new VideoUrl();<br>
@@ -19,4 +19,4 @@
 
     mSuperVideoPlayer.loadMultipleVideo(video);<br>
 
- 3.ui¿É½øĞĞ¸ß¶È¶¨ÖÆ£¬³Û³Ò°É£¡
+ 3.uiå¯è¿›è¡Œé«˜åº¦å®šåˆ¶ï¼Œé©°éª‹å§ï¼
