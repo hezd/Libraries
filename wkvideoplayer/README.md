@@ -5,7 +5,7 @@
                     android:id="@+id/video_player_item"<br>
                     android:layout_width="match_parent"<br>
                     android:layout_height="200dp"<br>
-                    />
+                    /><br>
 2.初始化并加载网络视频<br>
     video = new Video();<br>
     video.setVideoName(mTopicItem.getTitle());<br>
