@@ -10,7 +10,7 @@
     video = new Video();<br>
     video.setVideoName(mTopicItem.getTitle());<br>
     VideoUrl videoUrl = new VideoUrl();<br>
-    videoUrl.setFormatUrl(videoURL + ".f30.mp4");<br>
+    videoUrl.setFormatUrl("http://ooxx.mp4");<br>
 
     ArrayList<VideoUrl> list = new ArrayList<>();
     list.add(videoUrl);
