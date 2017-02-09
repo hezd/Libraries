@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Libraries.iml" filepath="$PROJECT_DIR$/Libraries.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpeg4android_lib/ffmpeg4android_lib.iml" filepath="$PROJECT_DIR$/ffmpeg4android_lib/ffmpeg4android_lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/idcard-library/idcard-library.iml" filepath="$PROJECT_DIR$/idcard-library/idcard-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/share_sdk_library/share_sdk_library.iml" filepath="$PROJECT_DIR$/share_sdk_library/share_sdk_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/wkvideoplayer/wkvideoplayer.iml" filepath="$PROJECT_DIR$/wkvideoplayer/wkvideoplayer.iml" />

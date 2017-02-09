@@ -1,1 +1,1 @@
-include ':app', ':idcard-library', ':share_sdk_library', ':wkvideoplayer'
+include ':app', ':idcard-library', ':share_sdk_library', ':wkvideoplayer', ':ffmpeg4android_lib'
