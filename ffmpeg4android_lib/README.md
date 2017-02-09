@@ -7,5 +7,5 @@ LoadJNI vk = new LoadJNI();<br>
 vk.run(GeneralUtils.utilConvertToComplex(commandStr), workFolder, getApplicationContext());<br>
 ps:commandStr是执行的ffmpeg命令,视频操作是耗时操作记得放到子线程。<br>
 
-    详细使用说明打开此链接 http://androidwarzone.blogspot.sg/2011/12/ffmpeg4android.html<br>
+    详细使用说明打开此链接 http://androidwarzone.blogspot.sg/2011/12/ffmpeg4android.html
     另外提供给大家一个Demo地址（需要翻墙）https://drive.google.com/file/d/0B9qAjo6wKhk9TUQzX0ludUJkOGc/view
