@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="color_scan_line">#76ecf3</color>
+    <color name="scan_below_text">#E8CD86</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="app_navigation">#F7F7F7</color>	<!-- 导航栏 -->
+    <color name="app_bg">#F4F4F4</color> 			<!-- 背景色 -->
+    <color name="app_divider">#EAEAEA</color>		<!-- 分割线 -->
+    <color name="app_edittext">#2E2E2E</color>		<!-- 输入框 -->
+    <color name="app_title">#343434</color>			<!-- 栏目标题 -->
+    <color name="app_text_body">#161616</color>		<!-- 主要内容 -->
+    <color name="app_text_auxiliary">#A1A1A1</color><!-- 辅助文字 -->
+    <color name="app_text_light">#FF3938</color>	<!-- 标亮文字 -->
+    <color name="app_text_tip">#BBBBBB</color>		<!-- 提示文字 -->
+    <color name="app_text_white">#FFFFFF</color>	<!-- 白色字体文字 -->
+    <color name="listview_driver_color">#D8D8D8</color><!-- 列表分割线颜色 -->
+    <color name="app_fg">#FFFFFF</color> 			<!-- 前景色 -->
+    <color name="app_gray">#bcbcbc</color> 			<!-- 前景色 -->
+
+
+    <color name="color_h">#FF6C00</color>
+    
+    <color name="pressed_color">#30000000</color>
+    <color name="color_white">#FFFFFF</color>	<!-- 白色 -->
+    <color name="color_red">#FF0000</color>	<!-- 红色 -->
+    <color name="color_red_disable">#FF7574</color>
+    <color name="color_red_pressed">#30FF0000</color>
+    <color name="color_grey">#a1a1a1</color>
+    <color name="color_grey_pressed">#30a1a1a1</color>
+    
+    <color name="transparent_bg">#60000000</color><!-- 黑色半透明 -->
+    <color name="transparent_grey">#30000000</color><!-- 灰色半透明 -->
+
+    <color name="home_red">#FF5555</color>
+    <color name="home_red_c">#BBBBBB</color>
+    <color name="home_blue">#03A9F4</color>
+    <color name="home_blue_c">#BBBBBB</color>
+    <color name="home_yellow">#FF9800</color>
+    <color name="home_yellow_c">#BBBBBB</color>
+    <color name="home_text_grey">#858585</color>
+    <color name="home_text_yello">#ff9900</color>
+
+    <color name="item_pressed">#FFE4D2</color>  <!-- 条目按下的颜色-->
+     <!-- 按下的颜色 -->
+    <color name="image_view_btn_pressed_bgColor">#30000000</color>
+    <!-- 登录 -->
+    <color name="orange">#ff905b</color>
+    <color name="orange_tips_foreground">#ff7800</color>
+    <color name="orange_tips_background">#fff6b9</color>
+    <!-- 订单相关 -->
+    <color name="tab_title_default">#595959</color>
+    <color name="tab_title_selected">#ff4b14</color>
+    
+     <color name="app_color_lightgrey">#e5e5e5</color>	
+     <color name="text_light_gray">#999999</color>	
+     <!-- 引导页 -->
+     <color name="login_unable_bg">#cdced0</color> 
+     <color name="color_cb">#cbcbcb</color>
+     <!-- qr code start -->
+     <color name="result_view">#b0000000</color>
+     <color name="viewfinder_mask">#60000000</color>
+     <color name="possible_result_points">#c0ffff00</color>
+      <!-- 吊起照相机 -->
+     <color name="camera_dialog_textColor">#137FF0</color>
+     <!-- qr code end -->
+     <color name="text_bule">#68C1F7</color>
+     <color name="transparent">#00000000</color>
+     <color name="transparent_deep">#10000000</color>
+     <color name="transparent_deep2">#80000000</color>
+
+    <color name="grey">#eaeaea</color>
+    <color name="blue">#0cadf6</color>
+    <!-- dialog 弹窗 -->
+     <color name="tab_text_wz">#ff000000</color>
+     <!-- 附近地图 -->
+    <color name="near_by_map_shop_title_textColor">#353535</color>
+    <color name="near_by_map_shop_distance_textColor">#A3A3A3</color>
+    <color name="near_by_map_more_textColor">#F05C1F</color>
+    
+    <color name="near_by_textColor1">#737373</color>
+    <color name="look_for_routes_textColor1">#464545</color>
+    <color name="look_for_routes_line_color">#bdbdbd</color>
+    <color name="near_by_title_bar_bg_color">#FF621F</color>
+    <color name="near_by_select_address_tv_bgColor">#F6F6F6</color>
+	<color name="select_point_tab_normal_textColor">#A8A6A5</color>
+    <color name="select_point_tab_selected_textColor">#363536</color>
+    <color name="select_point_address_label_textColor">#424242</color>
+    <color name="select_point_address_content_textColor">#959491</color>
+    <!-- 搜索 -->
+    <color name="search_titlebar_color">#ff621d</color>
+    <color name="search_background_color">#e2e2e2</color>
+    <color name="search_searchbutton">#fc7951</color>
+    <color name="search_font_color">#4b4b4b</color>
+    <color name="search_vertical_line">#cccccc</color>
+    <!-- 弹窗 -->
+    <color name="red_rose">#FF5555</color>
+
+    <color name="more_info_red">#FF3938</color>
+
+</resources>

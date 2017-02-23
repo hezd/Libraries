@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/idcard-library/idcard-library.iml" filepath="$PROJECT_DIR$/idcard-library/idcard-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/share_sdk_library/share_sdk_library.iml" filepath="$PROJECT_DIR$/share_sdk_library/share_sdk_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/wkvideoplayer/wkvideoplayer.iml" filepath="$PROJECT_DIR$/wkvideoplayer/wkvideoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing-lib/zxing-lib.iml" filepath="$PROJECT_DIR$/zxing-lib/zxing-lib.iml" />
     </modules>
   </component>
 </project>

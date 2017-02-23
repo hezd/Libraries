@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/idcard-library" />
             <option value="$PROJECT_DIR$/share_sdk_library" />
             <option value="$PROJECT_DIR$/wkvideoplayer" />
+            <option value="$PROJECT_DIR$/zxing-lib" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
